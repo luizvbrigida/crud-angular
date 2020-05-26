@@ -1,0 +1,24 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Caneta preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "nootbook",
+      "price": 10.222
+    },
+    {
+      "id": 3,
+      "name": "Celular sansung",
+      "price": "720.99"
+    },
+    {
+      "name": "lapis",
+      "price": "9.99",
+      "id": 4
+    }
+  ]
+}
